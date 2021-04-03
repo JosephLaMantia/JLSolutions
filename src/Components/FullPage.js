@@ -12,12 +12,14 @@ export default () => {
               <h1>Hi! I'm Joseph LaMantia,</h1>
               <h2>a passionate software and web developer.</h2>
               <p>^_^</p>
+              <h1>&nbsp;&nbsp;&nbsp;&nbsp; &lt;Check out my projects!/&gt;</h1>
+              
             </div>
           </section>
         </Slide>
       <Slide>
         <section id='projects'>
-          <h1>&lt;Check out my projects!/&gt;</h1>
+          
 
           <div id='project-tile-wrapper'>
               <article class='project-tile'>
