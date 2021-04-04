@@ -69,6 +69,7 @@ body {
 
  #projects {
   height: 100%;
+  width: 100%;
   background-color:rgb(255, 255, 255, 0.75);
   color: rgb(0, 0, 0);
   font-family: monospace;
@@ -183,7 +184,7 @@ body {
 
 */
 .project-img {
-  max-height: 600px;
+  max-height: 38vh;
   max-width: 700px;
   box-shadow: 0 0 2px 0 #2d47a8;
   margin: 1em;
